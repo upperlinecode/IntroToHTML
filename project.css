@@ -1,0 +1,34 @@
+img {
+  width: 100%;
+
+}
+
+h1 {
+  color: blue;
+  padding-left: 25px;
+  font-family: sans-serif;
+}
+
+h2 {
+  padding-left: 25px;
+  font-family: sans-serif;
+
+}
+
+
+/* .img-container { */
+  /* width: 30%; */
+/* } */
+
+.album-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 50%;
+
+}
+
+.album-tile {
+  padding-left: 25px;
+  font-family: sans-serif;
+
+}
